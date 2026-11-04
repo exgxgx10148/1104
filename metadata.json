@@ -1,0 +1,6 @@
+{
+  "name": "AEROVOX APEX 智慧藍芽抗摔安全帽",
+  "description": "專為外送騎士打造的頂級智慧防摔安全帽，結合特殊防撞材料、防眩光燻黑面罩、直連免接麥克風藍芽通話系統，呈現寫實3D滾動互動展示與直覺銷售商城。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
